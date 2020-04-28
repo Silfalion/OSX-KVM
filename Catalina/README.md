@@ -1,5 +1,7 @@
 ### Notes
 
+Note: This is has to be done on macOS, not Linux.
+
 Catalina installs the same way as [Mojave](../Mojave/README.md).
 
 Tested with macOS Catalina 10.15 with Clover 5070 (from October, 2019).
